@@ -7,8 +7,8 @@ I have PhD but I prefer to see myself as a philomath, a lover of learning! It al
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nimasarajpoor1991/)  [![Medium Badge](https://img.shields.io/badge/Medium-articles-black)](https://medium.com/@nimasarajpoor)  [![Blog Badge](https://img.shields.io/badge/Blog-ML-cyan)](https://nimasarajpoor.github.io/blog/)
 
 - :smiley: I love Python...And, I am also beginning to love C++!
-- :sunglasses: I contribute to two libraries in data science: [STUMPY](https://github.com/TDAmeritrade/stumpy) and [mlxtend](https://github.com/rasbt/mlxtend)
-- :sunglasses: From time to time, I write on my personal [blog](https://nimasarajpoor.github.io/blog/). If you know a cool project, let me know :)
+- :sunglasses: I contribute to two libraries in data science: [STUMPY](https://github.com/TDAmeritrade/stumpy) and [mlxtend](https://github.com/rasbt/mlxtend) If you know a cool project, let me know :)
+- :sunglasses: From time to time, I write on my personal [blog](https://nimasarajpoor.github.io/blog/) or [Medium](https://medium.com/@nimasarajpoor) about ML.
 - :sunglasses: I enjoy explaining complicated things in simple words. I am currently writing a tutorial on Data Structure and Algorithms!
 - :heart: I LOVE 5 things: 1.my wife, 2.data and machine learning, 3.math, 4.philosophy, and 5.music
 
