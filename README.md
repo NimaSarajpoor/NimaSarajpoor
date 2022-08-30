@@ -1,6 +1,6 @@
 ## Hi I'm Nima <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I have PhD but I prefer to see myself as a philomath, a lover of learning! It also means a student of mathematics. I :heart: math! I am machine learning engineer and an open source contirbutor! I also enjoy reading about philosophy! If you think we do not have anything in common, you are wrong! We are both humans :)
+I am a PhD but I prefer to see myself as a philomath, a lover of learning! It also means a student of mathematics. I :heart: math! I am machine learning engineer and an open source contirbutor! I also enjoy reading about philosophy! If you think we do not have anything in common, you are wrong! We are both humans :)
 
 :bowtie: You can find me here:
 
