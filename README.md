@@ -14,7 +14,7 @@ I am a PhD but I prefer to see myself as a philomath, a lover of learning! It al
 
 :email: nimasarajpoor@gmail.com
 
-:scroll: [Resume]("./Resume.pdf")
+:scroll: [Resume](./Resume.pdf)
 
 #### :bar_chart: Stats
 
