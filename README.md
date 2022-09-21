@@ -11,7 +11,7 @@ I am a philomath, a lover of learning! It also means a student of mathematics. I
 - :sunglasses: From time to time, I write on my personal [blog](https://nimasarajpoor.github.io/blog/) or [Medium](https://medium.com/@nimasarajpoor) about ML.
 - :sunglasses: I enjoy explaining complicated things in simple words. I am currently writing a tutorial on Data Structure and Algorithms!
 - :heart: I LOVE 5 things: 1.my wife, 2.data and machine learning, 3.math, 4.philosophy, and 5.music
-- :exclamation: My resume (see below) contains hyperlinks. To use hyperlinks, you need to download the resume.
+- :exclamation: You need to **download** the resume to activate the embedded hyperlinks.
 
 :email: nimasarajpoor@gmail.com
 
