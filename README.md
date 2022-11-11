@@ -13,7 +13,7 @@ I am machine learning engineer and an open source contirbutor! I also enjoy read
 - :sunglasses: From time to time, I write on my personal [blog](https://nimasarajpoor.github.io/blog/) or [Medium](https://medium.com/@nimasarajpoor) about ML.
 - :sunglasses: I enjoy explaining complicated things in simple words. I am currently writing a tutorial on Data Structure and Algorithms!
 - :heart: I LOVE 5 things: 1.my wife, 2.data and machine learning, 3.math, 4.philosophy, and 5.music
-- :exclamation: You need to [**download the resume**](https://github.com/NimaSarajpoor/NimaSarajpoor/raw/main/Resume.pdf) to activate the embedded hyperlinks.
+- :exclamation: You need to download the resume (attached below) to activate the embedded hyperlinks :)
 
 :email: nimasarajpoor@gmail.com
 
