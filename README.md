@@ -8,7 +8,7 @@ I am a philomath, a lover of learning! It also means a student of mathematics. I
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nimasarajpoor1991/)  [![Medium Badge](https://img.shields.io/badge/Medium-articles-black)](https://medium.com/@nimasarajpoor)  [![Blog Badge](https://img.shields.io/badge/Blog-ML-cyan)](https://nimasarajpoor.github.io/blog/)
 
-- :smiley: I love Python. I have experience with Git version contro, SQL, and Shell scripting.
+- :smiley: I love Python. I have experience with Git version control, SQL, and Shell scripting.
 - :sunglasses: I enjoy contributing to open source projects :)
 - :sunglasses: From time to time, I write on my personal [blog](https://nimasarajpoor.github.io/blog/) or [Medium](https://medium.com/@nimasarajpoor) about ML.
 - :sunglasses: I enjoy explaining complicated things in simple words. I am currently writing a tutorial on Data Structure and Algorithms!
