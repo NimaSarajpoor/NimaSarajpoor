@@ -23,4 +23,4 @@ I am a philomath, a lover of learning! It also means a student of mathematics. I
 
 <!--- ![visitors](https://visitor-badge.glitch.me/badge?page_id=NimaSarajpoor.NimaSarajpoor) --->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NimaSarajpoor&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=NimaSarajpoor&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) --->
