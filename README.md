@@ -19,7 +19,7 @@ I am a philomath, a lover of learning! It also means a student of mathematics. I
 
 :scroll: [Resume](./Resume.pdf)
 
-#### :bar_chart: Stats
+<!--- #### :bar_chart: Stats --->
 
 <!--- ![visitors](https://visitor-badge.glitch.me/badge?page_id=NimaSarajpoor.NimaSarajpoor) --->
 
