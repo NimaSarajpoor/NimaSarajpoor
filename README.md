@@ -8,10 +8,8 @@ I am philomath, a lover of learning! I am data scientist and I am also contribut
 
 - :smiley: I love analyzing data (and Yes! I love critical thinking!).
 - :sunglasses: I enjoy contributing to open source projects :)
-- :sunglasses: From time to time, I write on my personal [blog](https://nimasarajpoor.github.io/blog/) or [Medium](https://medium.com/@nimasarajpoor) about ML.
-- :sunglasses: I enjoy explaining complicated things in simple words. I am currently writing a tutorial on Data Structure and Algorithms!
+- :sunglasses: I enjoy explaining complicated things in simple words. 
 - :heart: I LOVE 5 things: 1.my wife, 2.data and machine learning, 3.math, 4.philosophy, and 5.music
-- :exclamation: You need to download the resume (attached below) to activate the embedded hyperlinks :)
 
 :email: nimasarajpoor@gmail.com
 
