@@ -4,7 +4,7 @@ I am philomath, a lover of learning! I love data science and machine learning, a
 
 :bowtie: You can find me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nimasarajpoor1991/)  [![Medium Badge](https://img.shields.io/badge/Medium-articles-black)](https://medium.com/@nimasarajpoor)  [![Blog Badge](https://img.shields.io/badge/Blog-ML-cyan)](https://nimasarajpoor.github.io/blog/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nimasarajpoor1991/)  [![Medium Badge](https://img.shields.io/badge/Medium-articles-black)](https://medium.com/@nimasarajpoor)  [![Blog Badge](https://img.shields.io/badge/Blog-ML/DS-cyan)]([https://nimasarajpoor.github.io/blog/](https://the-data-philomath.netlify.app))
 
 - :smiley: I love analyzing data (and Yes! I love critical thinking!).
 - :sunglasses: I enjoy contributing to open source projects :)
